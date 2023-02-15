@@ -43,4 +43,4 @@ If you find any opportunity for improvement, please let us know!
 
 ### Fun fact
 
-If you stop (by pressing any key), let's say in `55`. Pressing `R/S` will run from that point on to `89...`
+If you stop (by pressing any key), let's say in `55`, pressing `R/S` will run from that point on to `89...`
