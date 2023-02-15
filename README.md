@@ -40,3 +40,7 @@ If you find any opportunity for improvement, please let us know!
 - Press `f PRGRM` to clear the *programming memory* (this will delete any previous info added to the *programming memory*)
 - Type all the commands [above](README.md#code)
 - Press `f P/R` to exit programming mode
+
+### Fun fact
+
+If you stop (by pressing any key), let's say in `55`. Pressing `R/S` will run from that point on to `89...`
